@@ -193,10 +193,3 @@ All generated outputs are available in the `outputs` folder.
 
 ---
 Developed by Meghana kolla
-├── Week3_Statistical_Analysis.R
-├── Week4_final_report.R
-│
-├── air_quality_dataset.csv
-├── AirSense_Final_Report.docx
-├── README.md
-└── .gitignore
